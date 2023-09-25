@@ -26,3 +26,10 @@ npm run dev
 
 npm install -g npm@9.7.2
 ```
+
+## Scan repository for sensitive information and security issues by using git-secrets
+
+```bash
+git secrets --scan-history
+```
+

@@ -5,7 +5,7 @@ import Main from './components/Main.vue'
 <template>
   <div>
     <a href="https://terraform.io" target="_blank">
-      <img src="tf.svg"  class="logo" alt="Terraform logo" />
+      <img src="/tf.svg"  class="logo" alt="Terraform logo" />
     </a>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
@@ -14,7 +14,7 @@ import Main from './components/Main.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
     <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">
-      <img src="aws.svg"  class="logo" alt="AWS Elastic Beanstalk logo" />
+      <img src="/aws.svg"  class="logo" alt="AWS Elastic Beanstalk logo" />
     </a>    
   </div>
   <Main msg="Terraform + Vite + Vue + AWS Elastic Beanstalk CI/CD tutorial" />

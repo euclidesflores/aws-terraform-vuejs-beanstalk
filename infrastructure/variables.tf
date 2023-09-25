@@ -50,5 +50,5 @@ variable "cidr_blocks" {
 }
 
 variable "stack_name" {
-  default = "64bit Amazon Linux 2 v5.8.3 running Node.js 18"
+  default = "64bit Amazon Linux 2023 v6.0.0 running Node.js 18"
 }
